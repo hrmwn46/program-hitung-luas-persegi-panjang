@@ -2,10 +2,10 @@
 
 ## A. IDENTITAS SISWA
 
-- Nama Lengkap:
-- Kelas:
-- Nomor Absen:
-- Judul Program:
+- Nama Lengkap:RIDHO EKA HERMAWAN
+- Kelas:XII-7
+- Nomor Absen:33
+- Judul Program: HITUNG LUAS PERSEGI PANJANG
 
 ## B. TUJUAN PENGUJIAN
 
